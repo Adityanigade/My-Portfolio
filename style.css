@@ -1,0 +1,147 @@
+/* *{
+    padding: 0px;
+    margin: 5px;
+
+} */
+
+/* Header section */
+header {
+     /* border: 2px solid rgb(91, 226, 91);  */
+    padding: 5px 20px 5px 5px;
+    font-size: 14px;
+    text-align: right;
+
+}
+
+header .headerInfo {
+    margin-right: 20px;
+    text-align: right;
+}
+
+/* Navigation Section */
+
+nav {
+    /* border: 2px solid green;   */
+    padding: 5px 20px 10px 5px;
+    margin-top: 10px;
+
+
+}
+
+nav a {
+    padding-left: 5px;
+    padding-right: 10px;
+    text-decoration: none;
+    margin-left: 5px;
+    
+}
+
+/* Main Section */
+#mainSection {
+    margin-left: 20px;
+}
+
+#home {
+    /* border: 2px solid green; */
+}
+
+#home h2 {
+    font-size: large;
+    font-weight: 1px;
+}
+
+#home li {
+    padding: 5px;
+    padding: 2px 2px 5px 2px;
+    list-style-type:circle;
+
+}
+
+/* Tech Stack Section */
+#techstack {
+    /* border: 1px solid red;   */
+    margin-top: 20px;
+
+}
+
+#techstack h2 {
+    font-size: large;
+    font-weight: 1px;
+}
+
+#techstack table,
+td,
+thead {
+    border-collapse: collapse;
+    padding: 10px;
+    margin-top: 20px;
+
+
+}
+
+#project {
+    margin-top: 20px;
+
+}
+
+#project h2 {
+    font-size: large;
+    font-weight: 1px;
+    margin-top: 30px;
+    
+}
+.student{
+    margin: 4px;
+    
+}
+#project li{
+    padding: 5px;
+}
+
+#education{
+    margin-top: 30px;
+}
+#education h2{
+    font-size: large;
+    font-weight: 1px;
+
+}
+#education table, thead, td{
+    border-collapse: collapse;
+    padding: 10px;
+    margin-top: 20px;
+}
+#about{
+    margin-top: 40px;
+}
+#about h2{
+    font-size: large;
+    font-weight: 1px;
+}
+#abs{
+    margin-left: 50px;
+}
+#about strong{
+    padding: 4px;
+    margin: 4px;
+    margin-top: 50px;
+}
+#detail{
+    
+    margin-bottom: 20px;
+}
+#detail li{
+    padding: 4px;
+}
+#footer{
+    margin: 14px;
+    padding: 4px;
+
+}
+#abc{
+    font-size: large;
+    font-weight: 1px;
+}
+.zyx{
+    padding: 4px;
+}
